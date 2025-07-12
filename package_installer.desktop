@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Package Installer
+Exec=/usr/bin/package_installer
+Icon=/usr/share/icons/arch_pkg.png
+Type=Application
+Categories=Utility;Application;
+Comment=A simple package installer
